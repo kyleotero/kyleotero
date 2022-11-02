@@ -8,7 +8,7 @@
   </div>
   <hr />
   <h4>Education</h4>
-  <div>2nd year CS @ York University</div>
+  <div>CS @ York University</div>
   <h4>Languages & Tools</h4>
   <div id="languages">
     <ul>
