@@ -4,11 +4,11 @@
 <div id="about">
   <div id="summary">
     I am a 19 year old software engineer studying at
-    <strong>York University</strong> in <strong>Toronto</strong>.
+    <strong>Wilfrid Laurier University</strong> in <strong>Waterloo</strong>.
   </div>
   <hr />
   <h4>Education</h4>
-  <div>CS @ York University</div>
+  <div>CS @ Wilfrid Laurier University</div>
   <h4>Languages & Tools</h4>
   <div id="languages">
     <ul>
