@@ -3,7 +3,7 @@
 ```
 <div id="about">
   <div id="summary">
-    I am a 19 year old software engineer studying at
+    I am a 20 year old software engineer studying at
     <strong>Wilfrid Laurier University</strong> in <strong>Waterloo</strong>.
   </div>
   <hr />
