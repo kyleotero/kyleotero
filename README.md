@@ -12,19 +12,20 @@
   <h4>Languages & Tools</h4>
   <div id="languages">
     <ul>
-      <li>JavaScript, TypeScript (Express, jQuery, Puppeteer)</li>
-      <li>Java (Android Studio)</li>
-      <li>Python (Flask, Selenium)</li>
-      <li>React</li>
-      <li>HTML</li>
-      <li>CSS (TailwindCSS)</li>
+      <li>Go</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>C++</li>
+      <li>JavaScript, TypeScript</li>
+      <li>C</li>
+      <li>SQL</li>
     </ul>
   </div>
   <h4>Links</h4>
   <div id="links">
-    <a href="https://kotero.dev/">My portfolio site!</a>
-    <a href="https://linkedin.com/in/kotero">My Linkedin!</a>
-    <a href="https://github.com/kyleotero">My GitHub!</a>
+    <a href="https://kotero.dev/">my portfolio site</a>
+    <a href="https://linkedin.com/in/kotero">my linkedin</a>
+    <a href="https://github.com/kyleotero">my github</a>
   </div>
 </div>
 ```
