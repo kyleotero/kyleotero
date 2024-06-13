@@ -14,6 +14,7 @@
     <ul>
       <li>Go</li>
       <li>Python</li>
+      <li>Kotlin</li>
       <li>Java</li>
       <li>C++</li>
       <li>JavaScript, TypeScript</li>
